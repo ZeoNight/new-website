@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+  color:white
+}
+.title {
+  text-align: center;
+  align-items: center;
+  font-size: 50px;
+  padding: 250px 0;
+}
+#button {
+  font-size: 30px;
+  border: none;
+  padding: 10px 20px;
+}
